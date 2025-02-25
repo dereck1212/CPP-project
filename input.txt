@@ -1,0 +1,12 @@
+Date=2023-10-01
+Maturity Date=2024-10-01
+S0=100
+K=100
+Sigma=1899-12-30
+Times Steps=200
+Space Steps=200
+Smax=400
+Option Type=call
+Exercise Type=american
+Curve Dates=2023-10-01,2024-01-01,2024-10-01
+Curve Rate=0.05,0.05,0.05
